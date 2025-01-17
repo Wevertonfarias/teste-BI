@@ -38,5 +38,5 @@ O modelo de dados utilizado para a investigação está representado abaixo:
 
 ## 🚀 Como Utilizar  
 
-1. Abra o arquivo `teste Divergências em Medidas.PBIT;` no **Power BI Desktop**.  
+1. Abra o arquivo `DS_MEASURE.pbix` no **Power BI Desktop**.  
 2. Revise as medidas ajustadas e os cálculos relacionados à conversão para USD. 
